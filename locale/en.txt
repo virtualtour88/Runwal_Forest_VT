@@ -1,0 +1,19 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_77BA2913_7CC2_BA6C_41CB_08093C99FEEF.label = 1
+
+## Skin
+
+### Image
+Image_8D63B66C_8159_6C41_41D9_B65CE4741859.url = skin/Image_8D63B66C_8159_6C41_41D9_B65CE4741859_en.png
+Image_8D63B66C_8159_6C41_41D9_B65CE4741859_mobile.url = skin/Image_8D63B66C_8159_6C41_41D9_B65CE4741859_mobile_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Runwal Forest VT
